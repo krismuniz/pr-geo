@@ -210,7 +210,7 @@ Matón Abajo,Cayey,18.1252963,-66.2023717
 Matón Arriba,Cayey,18.1073782,-66.1980637
 Monte Llano,Cayey,18.1137694,-66.1391454
 Pasto Viejo,Cayey,18.096398,-66.2154931
-Pedro Avila,Cayey,18.0979196,-66.1952443
+Pedro Ávila,Cayey,18.0979196,-66.1952443
 Piedras,Cayey,18.1185639,-66.2181954
 Quebrada Arriba,Cayey,18.093542,-66.1513659
 Rincón,Cayey,18.1249855,-66.154317
@@ -372,7 +372,7 @@ Barrio Pueblo,Hormigueros,18.1398152,-67.1260465
 Benavente,Hormigueros,18.1163427,-67.1046309
 Guanajibo,Hormigueros,18.1463696,-67.1368364
 Hormigueros,Hormigueros,18.1374214,-67.1202082
-Jaguitas,Hormigueros,18.1507232,-67.1054651
+Jagüitas,Hormigueros,18.1507232,-67.1054651
 Lavadero,Hormigueros,18.1342732,-67.1008338
 Antón Ruíz,Humacao,18.1774644,-65.7850849
 Barrio Pueblo,Humacao,18.1520511,-65.8243254
@@ -562,7 +562,7 @@ Cuchillas,Morovis,18.3044614,-66.3859084
 Fránquez,Morovis,18.3553115,-66.418477
 Monte Llano,Morovis,18.3250199,-66.3896065
 Morovis Norte,Morovis,18.3415756,-66.4077768
-Morovis Sud,Morovis,18.314426,-66.4116547
+Morovis Sur,Morovis,18.314426,-66.4116547
 Pasto,Morovis,18.2747775,-66.4342464
 Perchas,Morovis,18.2776852,-66.403849
 Río Grande,Morovis,18.295893,-66.4104928
@@ -690,7 +690,7 @@ Guzmán Abajo,Río Grande,18.3548286,-65.8449461
 Guzmán Arriba,Río Grande,18.2904574,-65.8285458
 Herreras,Río Grande,18.3998127,-65.8189348
 Jiménez,Río Grande,18.3185475,-65.8047692
-Mameyes 2,Río Grande,18.3404968,-65.7655081
+Mameyes II,Río Grande,18.3404968,-65.7655081
 Zarzal,Río Grande,18.3891145,-65.7880797
 Barrio Pueblo,Sabana Grande,18.0789395,-66.9605318
 Machuchal,Sabana Grande,18.0564757,-66.9409178
@@ -737,6 +737,7 @@ Monacillo Urbano,San Juan,18.3801217,-66.0812355
 Oriente,San Juan,18.4140405,-66.0347559
 Pueblo,San Juan,18.3938524,-66.0477381
 Quebrada Arenas,San Juan,18.3202043,-66.0812485
+Río Piedras Pueblo,San Juan,18.3934,-66.0493
 Sabana Llana Norte,San Juan,18.405638,-66.0122873
 Sabana Llana Sur,San Juan,18.3840936,-66.0215567
 San Juan Antiguo,San Juan,18.4665941,-66.1079821
@@ -790,7 +791,7 @@ Barrio Pueblo,Toa Alta,18.3878814,-66.2476548
 Contorno,Toa Alta,18.3820263,-66.2641133
 Galateo,Toa Alta,18.3607287,-66.251527
 Mucarabones,Toa Alta,18.3833656,-66.2228205
-Ortiz,Toa Alta,18.3483269,-66.2156965
+Ortíz,Toa Alta,18.3483269,-66.2156965
 Piñas,Toa Alta,18.3657716,-66.2349326
 Quebrada Arenas,Toa Alta,18.3576122,-66.2796498
 Quebrada Cruz,Toa Alta,18.3401315,-66.2576379
@@ -808,16 +809,16 @@ La Gloria,Trujillo Alto,18.3264305,-66.0061585
 Quebrada Grande,Trujillo Alto,18.3135556,-65.9579215
 Quebrada Negrito,Trujillo Alto,18.3193598,-65.9884474
 St. Just,Trujillo Alto,18.3704439,-66.0025313
-Angeles,Utuado,18.2902972,-66.7970649
+Ángeles,Utuado,18.2902972,-66.7970649
 Arenas,Utuado,18.2400288,-66.7076031
 Barrio Pueblo,Utuado,18.2659536,-66.7062423
 Caguana,Utuado,18.2957095,-66.7469118
-Caniaco,Utuado,18.3171759,-66.6727446
+Caníaco,Utuado,18.3171759,-66.6727446
 Caonillas Abajo,Utuado,18.2780791,-66.638594
 Caonillas Arriba,Utuado,18.2499718,-66.6316224
 Consejo,Utuado,18.1776848,-66.6681223
 Don Alonso,Utuado,18.3087083,-66.637703
-Guaonica,Utuado,18.2374169,-66.7401945
+Guaonico,Utuado,18.2374169,-66.7401945
 Las Palmas,Utuado,18.2355146,-66.6569462
 Limón,Utuado,18.3253623,-66.6328159
 Mameyes Abajo,Utuado,18.3028624,-66.5935088
@@ -875,7 +876,7 @@ Barrio Pueblo,Yabucoa,18.0473039,-65.8800795
 Calabazas,Yabucoa,18.0544638,-65.9119789
 Camino Nuevo,Yabucoa,18.0299577,-65.8312194
 Guayabota,Yabucoa,18.0716477,-65.9685223
-Jácana,Yabucoa,18.0970861,-65.9171492
+Jácanas,Yabucoa,18.0970861,-65.9171492
 Juan Martín,Yabucoa,18.0598584,-65.8598713
 Limones,Yabucoa,18.0799949,-65.8888394
 Playa,Yabucoa,18.0724111,-65.8285771
@@ -891,7 +892,7 @@ Collores,Yauco,18.0872134,-66.887107
 Diego Hernández,Yauco,18.0576966,-66.8468808
 Duey,Yauco,18.0932061,-66.8398372
 Frailes,Yauco,18.1273299,-66.9114458
-Jácanas,Yauco,18.0315726,-66.8339481
+Jácana,Yauco,18.0315726,-66.8339481
 Naranjo,Yauco,18.1251723,-66.854254
 Quebradas,Yauco,18.0598625,-66.8285059
 Ranchera,Yauco,18.1110507,-66.8966327
